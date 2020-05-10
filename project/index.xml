@@ -17,7 +17,15 @@
       <link>https://hidetoshi-furukawa.github.io/project/apollo-documentation-poject/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://hidetoshi-furukawa.github.io/project/apollo-documentation-poject/</guid>
-      <description></description>
+      <description>&lt;p&gt;Documented using Doxygen from the code comment of 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo&lt;/a&gt; v5.5.0 Perception Module published by Baidu on GitHub.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hidetoshi-furukawa.github.io/apollo-doxygen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hidetoshi-furukawa/apollo-doxygen/blob/master/pdf/apollo-v5.5.0-perception.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +33,8 @@
       <link>https://hidetoshi-furukawa.github.io/project/carnd-capstone-project/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://hidetoshi-furukawa.github.io/project/carnd-capstone-project/</guid>
-      <description></description>
+      <description>&lt;p&gt;Capstone project &amp;ldquo;Programming a Real Self-Driving Car&amp;rdquo; of Udacity&amp;rsquo;s Nanodegree program &amp;ldquo;Self-Driving Car Engineer&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
