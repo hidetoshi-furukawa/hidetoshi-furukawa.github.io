@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hidetoshi Furukawa</title>
-    <link>https://hidetoshi-furukawa.github.io/</link>
-      <atom:link href="https://hidetoshi-furukawa.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hidetoshi Furukawa</description>
+    <title>Self-Driving Car | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/tag/self-driving-car/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/tag/self-driving-car/index.xml" rel="self" type="application/rss+xml" />
+    <description>Self-Driving Car</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 10 May 2020 12:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Hidetoshi Furukawa</title>
-      <link>https://hidetoshi-furukawa.github.io/</link>
+      <title>Self-Driving Car</title>
+      <link>https://hidetoshi-furukawa.github.io/tag/self-driving-car/</link>
     </image>
     
     <item>
@@ -96,30 +96,6 @@ Since Apollo 5.0, Baidu&amp;rsquo;s
       <link>https://hidetoshi-furukawa.github.io/project/carnd-capstone-project/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://hidetoshi-furukawa.github.io/project/carnd-capstone-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SAVERS: SAR ATR with Verification Support Based on Convolutional Neural Network</title>
-      <link>https://hidetoshi-furukawa.github.io/publication/savers-sar-atr-with-verification-support-based-on-convolutional-neural-network/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://hidetoshi-furukawa.github.io/publication/savers-sar-atr-with-verification-support-based-on-convolutional-neural-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning for End-to-End Automatic Target Recognition from Synthetic Aperture Radar Imagery</title>
-      <link>https://hidetoshi-furukawa.github.io/publication/deep-learning-for-end-to-end-automatic-target-recognition-from-synthetic-aperture-radar-imagery/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hidetoshi-furukawa.github.io/publication/deep-learning-for-end-to-end-automatic-target-recognition-from-synthetic-aperture-radar-imagery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning for Target Classification from SAR Imagery: Data Augmentation and Translation Invariance</title>
-      <link>https://hidetoshi-furukawa.github.io/publication/deep-learning-for-target-classification-from-sar-imagery-data-augmentation-and-translation-invariance/</link>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://hidetoshi-furukawa.github.io/publication/deep-learning-for-target-classification-from-sar-imagery-data-augmentation-and-translation-invariance/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://hidetoshi-furukawa.github.io/tag/deep-learning/</link>
       <atom:link href="https://hidetoshi-furukawa.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 26 Apr 2020 21:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Deep Learning</title>
@@ -13,9 +13,32 @@
     </image>
     
     <item>
+      <title>Apollo</title>
+      <link>https://hidetoshi-furukawa.github.io/post/apollo/</link>
+      <pubDate>Sun, 26 Apr 2020 21:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/apollo/</guid>
+      <description>&lt;p&gt;Apollo is an open autonomous driving platform developed by Baidu.&lt;/p&gt;
+&lt;p&gt;The open software platform is available on 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The latest release is Apollo 5.5.&lt;/p&gt;
+&lt;p&gt;The latest release tag is 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/tree/v5.5.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apollo-v5.5.0&lt;/a&gt;.
+In addition to the tag, there is 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/tree/r5.5.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r5.5.0&lt;/a&gt; branch.
+The branch continues to make changes for Apollo 5.5.&lt;/p&gt;
+&lt;p&gt;Apollo 3.5 and later, instead of the 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo-platform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo ROS&lt;/a&gt;, has been used 
+&lt;a href=&#34;https://cyber-rt.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo Cyber RT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Caffe is used as a deep learning framework for the perception module.
+Since Apollo 5.0, Baidu&amp;rsquo;s 
+&lt;a href=&#34;https://github.com/PaddlePaddle/Paddle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PaddlePaddle&lt;/a&gt; (PArallel Distributed Deep LEarning) is also supported.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Udacity CarND Capstone Project</title>
       <link>https://hidetoshi-furukawa.github.io/project/carnd-capstone-project/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://hidetoshi-furukawa.github.io/project/carnd-capstone-project/</guid>
       <description></description>
     </item>

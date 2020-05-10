@@ -5,12 +5,83 @@
     <link>https://hidetoshi-furukawa.github.io/post/</link>
       <atom:link href="https://hidetoshi-furukawa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 10 May 2020 12:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://hidetoshi-furukawa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>CARLA</title>
+      <link>https://hidetoshi-furukawa.github.io/post/carla/</link>
+      <pubDate>Sun, 10 May 2020 12:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/carla/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://carla.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CARLA&lt;/a&gt; is an open-source simulator for autonomous driving research developed by Computer Vision Center (CVC) at the Universitat Autonoma de Barcelona.&lt;/p&gt;
+&lt;p&gt;The software is available on 
+&lt;a href=&#34;https://github.com/carla-simulator/carla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, the documentation is available on 
+&lt;a href=&#34;https://carla.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the Docs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Epic Games&amp;rsquo;s Unreal Engine 4 is used as a game engine.&lt;/p&gt;
+&lt;p&gt;It currently has integration with Autoware Fundation&amp;rsquo;s Autoware.AI using 
+&lt;a href=&#34;https://github.com/carla-simulator/ros-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROS bridge for CARLA simulator&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LGSVL Simulator</title>
+      <link>https://hidetoshi-furukawa.github.io/post/lgsvl-simulator/</link>
+      <pubDate>Sun, 10 May 2020 11:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/lgsvl-simulator/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.lgsvlsimulator.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LGSVL Simulator&lt;/a&gt; is an autonomous vehicle simulator developed by LG Electronics Silicon Valley Lab (LGSVL).&lt;/p&gt;
+&lt;p&gt;The software is available on 
+&lt;a href=&#34;https://github.com/lgsvl/simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, the documentation is available on 
+&lt;a href=&#34;https://www.lgsvlsimulator.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Unity Technologies&amp;rsquo;s Unity is used as a game engine.&lt;/p&gt;
+&lt;p&gt;It currently has integration with Baidu&amp;rsquo;s Apollo (LGSVL fork) and Autoware Fundation&amp;rsquo;s Autoware.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autoware</title>
+      <link>https://hidetoshi-furukawa.github.io/post/autoware/</link>
+      <pubDate>Fri, 08 May 2020 21:40:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/autoware/</guid>
+      <description>&lt;p&gt;Autoware is an autonomous driving software developed by 
+&lt;a href=&#34;https://www.autoware.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware Fundation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are three projects: 
+&lt;a href=&#34;https://www.autoware.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware.AI&lt;/a&gt;, 
+&lt;a href=&#34;https://www.autoware.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware.IO&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.autoware.auto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware.Auto&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Autoware.AI built on ROS 1 is available on 
+&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitlab&lt;/a&gt;, Autoware.Auto built on ROS 2 is also available on 
+&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitlab&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apollo</title>
+      <link>https://hidetoshi-furukawa.github.io/post/apollo/</link>
+      <pubDate>Sun, 26 Apr 2020 21:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/apollo/</guid>
+      <description>&lt;p&gt;Apollo is an open autonomous driving platform developed by Baidu.&lt;/p&gt;
+&lt;p&gt;The open software platform is available on 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The latest release is Apollo 5.5.&lt;/p&gt;
+&lt;p&gt;The latest release tag is 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/tree/v5.5.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apollo-v5.5.0&lt;/a&gt;.
+In addition to the tag, there is 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/tree/r5.5.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r5.5.0&lt;/a&gt; branch.
+The branch continues to make changes for Apollo 5.5.&lt;/p&gt;
+&lt;p&gt;Apollo 3.5 and later, instead of the 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo-platform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo ROS&lt;/a&gt;, has been used 
+&lt;a href=&#34;https://cyber-rt.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo Cyber RT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Caffe is used as a deep learning framework for the perception module.
+Since Apollo 5.0, Baidu&amp;rsquo;s 
+&lt;a href=&#34;https://github.com/PaddlePaddle/Paddle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PaddlePaddle&lt;/a&gt; (PArallel Distributed Deep LEarning) is also supported.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

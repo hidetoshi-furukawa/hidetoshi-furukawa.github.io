@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulator | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/tag/simulator/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/tag/simulator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulator</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 10 May 2020 12:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Simulator</title>
+      <link>https://hidetoshi-furukawa.github.io/tag/simulator/</link>
+    </image>
+    
+    <item>
+      <title>CARLA</title>
+      <link>https://hidetoshi-furukawa.github.io/post/carla/</link>
+      <pubDate>Sun, 10 May 2020 12:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/carla/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://carla.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CARLA&lt;/a&gt; is an open-source simulator for autonomous driving research developed by Computer Vision Center (CVC) at the Universitat Autonoma de Barcelona.&lt;/p&gt;
+&lt;p&gt;The software is available on 
+&lt;a href=&#34;https://github.com/carla-simulator/carla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, the documentation is available on 
+&lt;a href=&#34;https://carla.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the Docs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Epic Games&amp;rsquo;s Unreal Engine 4 is used as a game engine.&lt;/p&gt;
+&lt;p&gt;It currently has integration with Autoware Fundation&amp;rsquo;s Autoware.AI using 
+&lt;a href=&#34;https://github.com/carla-simulator/ros-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROS bridge for CARLA simulator&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LGSVL Simulator</title>
+      <link>https://hidetoshi-furukawa.github.io/post/lgsvl-simulator/</link>
+      <pubDate>Sun, 10 May 2020 11:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/lgsvl-simulator/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.lgsvlsimulator.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LGSVL Simulator&lt;/a&gt; is an autonomous vehicle simulator developed by LG Electronics Silicon Valley Lab (LGSVL).&lt;/p&gt;
+&lt;p&gt;The software is available on 
+&lt;a href=&#34;https://github.com/lgsvl/simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, the documentation is available on 
+&lt;a href=&#34;https://www.lgsvlsimulator.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Unity Technologies&amp;rsquo;s Unity is used as a game engine.&lt;/p&gt;
+&lt;p&gt;It currently has integration with Baidu&amp;rsquo;s Apollo (LGSVL fork) and Autoware Fundation&amp;rsquo;s Autoware.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
