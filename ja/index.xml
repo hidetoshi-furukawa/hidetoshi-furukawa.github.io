@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/ja/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hidetoshi Furukawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sat, 09 May 2020 21:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
+      <title>Hidetoshi Furukawa</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/</link>
+    </image>
+    
+    <item>
+      <title>CARLA</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/carla/</link>
+      <pubDate>Sat, 09 May 2020 21:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/carla/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://carla.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CARLA&lt;/a&gt;は、バルセロナ自治大学のComputer Vision Center (CVC)が開発している自動運転シミュレータ。&lt;/p&gt;
+&lt;p&gt;ソフトウェアは
+&lt;a href=&#34;https://github.com/carla-simulator/carla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;、ドキュメントは
+&lt;a href=&#34;https://carla.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the Docs&lt;/a&gt;で公開されている。&lt;/p&gt;
+&lt;p&gt;ゲームエンジンとして、Epic Games社のUnreal Engine 4を使用。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/carla-simulator/ros-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROS bridge for CARLA simulator&lt;/a&gt;と組み合わせることにより、Autoware.AIと接続できる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LGSVL Simulator</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/lgsvl-simulator/</link>
+      <pubDate>Fri, 08 May 2020 23:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/lgsvl-simulator/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.lgsvlsimulator.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LGSVL Simulator&lt;/a&gt;は、LGエレクトロニクス Silicon Valley Lab (LGSVL)が開発している自動運転シミュレータ。&lt;/p&gt;
+&lt;p&gt;ソフトウェアは
+&lt;a href=&#34;https://github.com/lgsvl/simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;、ドキュメントは
+&lt;a href=&#34;https://www.lgsvlsimulator.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web&lt;/a&gt;で公開されている。&lt;/p&gt;
+&lt;p&gt;ゲームエンジンとして、Unity Technologies社のUnityを使用。&lt;/p&gt;
+&lt;p&gt;BaiduのApollo（LGSVLフォーク）とAutoware FundationのAutowareと接続できる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autoware</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/autoware/</link>
+      <pubDate>Fri, 08 May 2020 21:40:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/autoware/</guid>
+      <description>&lt;p&gt;Autowareは、
+&lt;a href=&#34;https://www.autoware.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware Fundation&lt;/a&gt;が開発している自動運転ソフトウェア。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.autoware.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware.AI&lt;/a&gt;、
+&lt;a href=&#34;https://www.autoware.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware.IO&lt;/a&gt;および
+&lt;a href=&#34;https://www.autoware.auto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoware.Auto&lt;/a&gt;の3つのプロジェクトがある。&lt;/p&gt;
+&lt;p&gt;ROS 1ベースのAutoware.AIのソフトウェアは
+&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitLab&lt;/a&gt;、ROS 2ベースのAutoware.Autoのソフトウェアも同じく
+&lt;a href=&#34;https://gitlab.com/autowarefoundation/autoware.auto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitLab&lt;/a&gt;で公開されている。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apollo</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/apollo/</link>
+      <pubDate>Sun, 26 Apr 2020 21:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/apollo/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://apollo.auto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo&lt;/a&gt;は、Baiduが開発している自動運転プラットフォーム。&lt;/p&gt;
+&lt;p&gt;自動運転ソフトウェアは、
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;で公開されている。&lt;/p&gt;
+&lt;p&gt;2020年4月時点の最新リリースは、Apollo 5.5。&lt;/p&gt;
+&lt;p&gt;GitHubのリリースタグに、
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/tree/v5.5.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apollo-v5.5.0&lt;/a&gt;があるが、上記のタグとは別に、ブランチとして
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/tree/r5.5.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r5.5.0&lt;/a&gt;が存在する。
+ブランチの方は、5.5.0に関する変更が継続されている。&lt;/p&gt;
+&lt;p&gt;Apollo 3.5以降は、
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo-platform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo ROS&lt;/a&gt;に替わって、
+&lt;a href=&#34;https://cyber-rt.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo Cyber RT&lt;/a&gt;が使用されている。&lt;/p&gt;
+&lt;p&gt;パーセプション・モジュールのための深層学習フレームワークとしてCaffeが使用されている。Apollo 5.0からBaiduの
+&lt;a href=&#34;https://github.com/PaddlePaddle/Paddle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PaddlePaddle&lt;/a&gt; (PArallel Distributed Deep LEarning)もサポートされるようになった。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Baidu Apollo Documentation Project</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/project/apollo-documentation-poject/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/project/apollo-documentation-poject/</guid>
+      <description>&lt;p&gt;BaiduがGitHubで公開している
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo&lt;/a&gt; v5.5.0のPerception Moduleのコードコメントから、Doxygenを用いてドキュメントを作成。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hidetoshi-furukawa.github.io/apollo-doxygen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hidetoshi-furukawa/apollo-doxygen/blob/master/pdf/apollo-v5.5.0-perception.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udacity CarND Capstone Project</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/project/carnd-capstone-project/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/project/carnd-capstone-project/</guid>
+      <description>&lt;p&gt;UdacityのNanodegreeプログラム「Self-Driving Car Engineer」のCapstone（総仕上げ）プロジェクト「Programming a Real Self-Driving Car」。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAVERS: SAR ATR with Verification Support Based on Convolutional Neural Network</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/publication/savers-sar-atr-with-verification-support-based-on-convolutional-neural-network/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/publication/savers-sar-atr-with-verification-support-based-on-convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for End-to-End Automatic Target Recognition from Synthetic Aperture Radar Imagery</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/publication/deep-learning-for-end-to-end-automatic-target-recognition-from-synthetic-aperture-radar-imagery/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/publication/deep-learning-for-end-to-end-automatic-target-recognition-from-synthetic-aperture-radar-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Target Classification from SAR Imagery: Data Augmentation and Translation Invariance</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/publication/deep-learning-for-target-classification-from-sar-imagery-data-augmentation-and-translation-invariance/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/publication/deep-learning-for-target-classification-from-sar-imagery-data-augmentation-and-translation-invariance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

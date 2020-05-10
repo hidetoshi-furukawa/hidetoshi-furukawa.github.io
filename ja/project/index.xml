@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/ja/project/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/ja/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/project/</link>
+    </image>
+    
+    <item>
+      <title>Baidu Apollo Documentation Project</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/project/apollo-documentation-poject/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/project/apollo-documentation-poject/</guid>
+      <description>&lt;p&gt;BaiduがGitHubで公開している
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo&lt;/a&gt; v5.5.0のPerception Moduleのコードコメントから、Doxygenを用いてドキュメントを作成。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hidetoshi-furukawa.github.io/apollo-doxygen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hidetoshi-furukawa/apollo-doxygen/blob/master/pdf/apollo-v5.5.0-perception.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udacity CarND Capstone Project</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/project/carnd-capstone-project/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/project/carnd-capstone-project/</guid>
+      <description>&lt;p&gt;UdacityのNanodegreeプログラム「Self-Driving Car Engineer」のCapstone（総仕上げ）プロジェクト「Programming a Real Self-Driving Car」。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>シミュレータ | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/ja/tag/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/ja/tag/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    <description>シミュレータ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sat, 09 May 2020 21:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
+      <title>シミュレータ</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/tag/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+    </image>
+    
+    <item>
+      <title>CARLA</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/carla/</link>
+      <pubDate>Sat, 09 May 2020 21:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/carla/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://carla.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CARLA&lt;/a&gt;は、バルセロナ自治大学のComputer Vision Center (CVC)が開発している自動運転シミュレータ。&lt;/p&gt;
+&lt;p&gt;ソフトウェアは
+&lt;a href=&#34;https://github.com/carla-simulator/carla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;、ドキュメントは
+&lt;a href=&#34;https://carla.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the Docs&lt;/a&gt;で公開されている。&lt;/p&gt;
+&lt;p&gt;ゲームエンジンとして、Epic Games社のUnreal Engine 4を使用。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/carla-simulator/ros-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROS bridge for CARLA simulator&lt;/a&gt;と組み合わせることにより、Autoware.AIと接続できる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LGSVL Simulator</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/lgsvl-simulator/</link>
+      <pubDate>Fri, 08 May 2020 23:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/lgsvl-simulator/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.lgsvlsimulator.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LGSVL Simulator&lt;/a&gt;は、LGエレクトロニクス Silicon Valley Lab (LGSVL)が開発している自動運転シミュレータ。&lt;/p&gt;
+&lt;p&gt;ソフトウェアは
+&lt;a href=&#34;https://github.com/lgsvl/simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;、ドキュメントは
+&lt;a href=&#34;https://www.lgsvlsimulator.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web&lt;/a&gt;で公開されている。&lt;/p&gt;
+&lt;p&gt;ゲームエンジンとして、Unity Technologies社のUnityを使用。&lt;/p&gt;
+&lt;p&gt;BaiduのApollo（LGSVLフォーク）とAutoware FundationのAutowareと接続できる。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
