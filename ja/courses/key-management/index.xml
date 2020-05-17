@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鍵管理の文書 | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/ja/courses/key-management/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/ja/courses/key-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>鍵管理の文書</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
+      <title>鍵管理の文書</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/courses/key-management/</link>
+    </image>
+    
+    <item>
+      <title>鍵管理の用語</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/courses/key-management/glossary/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/courses/key-management/glossary/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;用語&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;説明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric-key algorithm&lt;br&gt;対称鍵アルゴリズム&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;（例．暗号化と復号のような）単一の処理でかつその処理が完了するまで同じ秘密鍵（訳注：共通鍵）を使用する暗号アルゴリズム。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric key&lt;br&gt;対称鍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;対称鍵（暗号）アルゴリズムで使用される単一の鍵。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Secret key&lt;br&gt;秘密鍵（訳注：共通鍵）&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;一つ以上のエンティティに関連付けられ、かつ非公開であるような、秘密鍵（対称鍵）暗号アルゴリズムで使用される暗号鍵。この文脈での“秘密”という用語の使用は、格付けレベルを意味しないが、むしろ暴露から鍵を保護する必要性を示している。&lt;br&gt;（訳注：我が国では、公開鍵暗号の“Private key”を“秘密鍵”と意訳したため、混同を防止する観点から“SecretKey”の訳語として、“共通鍵”と表記することが多い。）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public-key（asymmetric）cryptographic algorithm&lt;br&gt;公開鍵（非対称鍵）暗号アルゴリズム&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;2つの関連する鍵（公開鍵とプライベート鍵）を使用する暗号アルゴリズム。（公開鍵とプライベート鍵の）2つの鍵には、公開鍵からプライベート鍵を決定することは計算量的に困難であるという特性がある。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Asymmetric key algorithm&lt;br&gt;非対称鍵アルゴリズム&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;公開鍵暗号アルゴリズムを参照。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Key pair&lt;br&gt;鍵ペア&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;公開鍵と対応するプライベート鍵；鍵ペアは公開鍵暗号アルゴリズムで用いられる。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public key&lt;br&gt;公開鍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;公開鍵暗号アルゴリズムで使用される暗号鍵で、エンティティと一意に関連付けられ、公開されるもの。非対称鍵（公開鍵）暗号系では、公開鍵はプライベート鍵に対応している。公開鍵は不特定多数に知らされ得るもので、アルゴリズムに依存し、例えば、以下のような用途で使用できる：&lt;br&gt;1. 対応するプライベート鍵により署名されたディジタル署名を検証する&lt;br&gt;2. 対応するプライベート鍵を用いて復号可能な鍵を暗号化する&lt;br&gt;3. 鍵共有トランザクションにおいて共有秘密を計算する&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Private key&lt;br&gt;プライベート鍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;暗号鍵：公開鍵暗号アルゴリズムと共に使用された、一意にエンティティに関連付けられ、公開されない。非対称（公開鍵）暗号系では、プライベート鍵は公開鍵と対応する。アルゴリズムに依存するが、プライベート鍵は、以下の例のように利用される:&lt;br&gt;1. 対応する公開鍵を算出する&lt;br&gt;2. 対応する公開鍵によって検証されるディジタル署名を作成する&lt;br&gt;3. 対応する公開鍵によって暗号化された鍵を復号する&lt;br&gt;4. 鍵共有処理において共有秘密を計算する&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;IPAの
+&lt;a href=&#34;https://www.ipa.go.jp/security/publications/nist/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;セキュリティ関連NIST文書&lt;/a&gt;の
+&lt;a href=&#34;https://www.ipa.go.jp/files/000055490.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SP 800-57 Part 1 Rev.4 [PDF]&lt;/a&gt;より引用&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

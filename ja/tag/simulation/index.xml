@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/ja/tag/simulation/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/ja/tag/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Wed, 13 May 2020 22:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
+      <title>Simulation</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/tag/simulation/</link>
+    </image>
+    
+    <item>
+      <title>Apollo Dreamview</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/apollo-dreamview/</link>
+      <pubDate>Wed, 13 May 2020 22:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/apollo-dreamview/</guid>
+      <description>&lt;p&gt;Dreamviewは、Baidu 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo (Open Software Platform)&lt;/a&gt;の可視化ツール。&lt;/p&gt;
+&lt;p&gt;Dreamviewは、次のようなWebアプリケーション。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;関連する自動運転モジュールの現在の出力を視覚化&lt;/li&gt;
+&lt;li&gt;ハードウェアのステータスの表示、モジュールのオン/オフの切り替え、自動運転車をスタートするためのヒューマンマシンインターフェイスを提供&lt;/li&gt;
+&lt;li&gt;モジュールの課題を効率的に追跡するためのPnC Monitorなどのデバッグツールを提供。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Dreamviewの使用法は、
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/specs/dreamview_usage_table.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dreamview Usage Table&lt;/a&gt;を参照。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/FAQs/Dreamview_FAQs.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DreamView FAQs&lt;/a&gt;に記載されているように、Planning動作の確認のために&amp;quot;Sim Control&amp;quot;を使用することができる。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Others&amp;quot;パネルの&amp;quot;PNC Monitor&amp;quot;をオンにすると、ヘッダー画像のようにPlanningのグラフを表示できる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CARLA</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/carla/</link>
+      <pubDate>Sat, 09 May 2020 21:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/carla/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://carla.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CARLA&lt;/a&gt;は、バルセロナ自治大学のComputer Vision Center (CVC)が開発している自動運転シミュレータ。&lt;/p&gt;
+&lt;p&gt;ソフトウェアは
+&lt;a href=&#34;https://github.com/carla-simulator/carla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;、ドキュメントは
+&lt;a href=&#34;https://carla.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the Docs&lt;/a&gt;で公開されている。&lt;/p&gt;
+&lt;p&gt;ゲームエンジンとして、Epic Games社のUnreal Engine 4を使用。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/carla-simulator/ros-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROS bridge for CARLA simulator&lt;/a&gt;と組み合わせることにより、Autoware.AIと接続できる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LGSVL Simulator</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/lgsvl-simulator/</link>
+      <pubDate>Fri, 08 May 2020 23:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/lgsvl-simulator/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.lgsvlsimulator.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LGSVL Simulator&lt;/a&gt;は、LGエレクトロニクス Silicon Valley Lab (LGSVL)が開発している自動運転シミュレータ。&lt;/p&gt;
+&lt;p&gt;ソフトウェアは
+&lt;a href=&#34;https://github.com/lgsvl/simulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;、ドキュメントは
+&lt;a href=&#34;https://www.lgsvlsimulator.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web&lt;/a&gt;で公開されている。&lt;/p&gt;
+&lt;p&gt;ゲームエンジンとして、Unity Technologies社のUnityを使用。&lt;/p&gt;
+&lt;p&gt;BaiduのApollo（LGSVLフォーク）とAutoware FundationのAutowareと接続できる。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

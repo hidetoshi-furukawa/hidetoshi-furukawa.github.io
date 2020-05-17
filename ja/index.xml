@@ -5,12 +5,180 @@
     <link>https://hidetoshi-furukawa.github.io/ja/</link>
       <atom:link href="https://hidetoshi-furukawa.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>Hidetoshi Furukawa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sat, 09 May 2020 21:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 17 May 2020 00:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
       <title>Hidetoshi Furukawa</title>
       <link>https://hidetoshi-furukawa.github.io/ja/</link>
     </image>
+    
+    <item>
+      <title>鍵管理の用語</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/courses/key-management/glossary/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/courses/key-management/glossary/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;用語&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;説明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric-key algorithm&lt;br&gt;対称鍵アルゴリズム&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;（例．暗号化と復号のような）単一の処理でかつその処理が完了するまで同じ秘密鍵（訳注：共通鍵）を使用する暗号アルゴリズム。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric key&lt;br&gt;対称鍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;対称鍵（暗号）アルゴリズムで使用される単一の鍵。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Secret key&lt;br&gt;秘密鍵（訳注：共通鍵）&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;一つ以上のエンティティに関連付けられ、かつ非公開であるような、秘密鍵（対称鍵）暗号アルゴリズムで使用される暗号鍵。この文脈での“秘密”という用語の使用は、格付けレベルを意味しないが、むしろ暴露から鍵を保護する必要性を示している。&lt;br&gt;（訳注：我が国では、公開鍵暗号の“Private key”を“秘密鍵”と意訳したため、混同を防止する観点から“SecretKey”の訳語として、“共通鍵”と表記することが多い。）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public-key（asymmetric）cryptographic algorithm&lt;br&gt;公開鍵（非対称鍵）暗号アルゴリズム&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;2つの関連する鍵（公開鍵とプライベート鍵）を使用する暗号アルゴリズム。（公開鍵とプライベート鍵の）2つの鍵には、公開鍵からプライベート鍵を決定することは計算量的に困難であるという特性がある。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Asymmetric key algorithm&lt;br&gt;非対称鍵アルゴリズム&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;公開鍵暗号アルゴリズムを参照。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Key pair&lt;br&gt;鍵ペア&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;公開鍵と対応するプライベート鍵；鍵ペアは公開鍵暗号アルゴリズムで用いられる。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public key&lt;br&gt;公開鍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;公開鍵暗号アルゴリズムで使用される暗号鍵で、エンティティと一意に関連付けられ、公開されるもの。非対称鍵（公開鍵）暗号系では、公開鍵はプライベート鍵に対応している。公開鍵は不特定多数に知らされ得るもので、アルゴリズムに依存し、例えば、以下のような用途で使用できる：&lt;br&gt;1. 対応するプライベート鍵により署名されたディジタル署名を検証する&lt;br&gt;2. 対応するプライベート鍵を用いて復号可能な鍵を暗号化する&lt;br&gt;3. 鍵共有トランザクションにおいて共有秘密を計算する&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Private key&lt;br&gt;プライベート鍵&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;暗号鍵：公開鍵暗号アルゴリズムと共に使用された、一意にエンティティに関連付けられ、公開されない。非対称（公開鍵）暗号系では、プライベート鍵は公開鍵と対応する。アルゴリズムに依存するが、プライベート鍵は、以下の例のように利用される:&lt;br&gt;1. 対応する公開鍵を算出する&lt;br&gt;2. 対応する公開鍵によって検証されるディジタル署名を作成する&lt;br&gt;3. 対応する公開鍵によって暗号化された鍵を復号する&lt;br&gt;4. 鍵共有処理において共有秘密を計算する&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;IPAの
+&lt;a href=&#34;https://www.ipa.go.jp/security/publications/nist/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;セキュリティ関連NIST文書&lt;/a&gt;の
+&lt;a href=&#34;https://www.ipa.go.jp/files/000055490.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SP 800-57 Part 1 Rev.4 [PDF]&lt;/a&gt;より引用&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>自動車のサイバーセキュリティ</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/courses/vehicle/cybersecurity/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/courses/vehicle/cybersecurity/</guid>
+      <description>&lt;h2 id=&#34;un-regulation-wip&#34;&gt;UN Regulation (WIP)&lt;/h2&gt;
+&lt;h3 id=&#34;unece-wp29-grva-6th-session-informal-documentshttpswwwuneceorgtransmainwp29wp29wgswp29grvagrvainf2020-2html&#34;&gt;
+&lt;a href=&#34;https://www.unece.org/trans/main/wp29/wp29wgs/wp29grva/grvainf2020-2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNECE WP.29 GRVA 6th session Informal documents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GRVA-06-19-Rev.1&lt;br&gt;
+Proposal for a new UN Regulation on Cyber security&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/GRVA-06-19r1e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;unece-wp29-grva-2020-working-documentshttpswwwuneceorgtransmainwp29wp29wgswp29grvagrva2020html&#34;&gt;
+&lt;a href=&#34;https://www.unece.org/trans/main/wp29/wp29wgs/wp29grva/grva2020.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNECE WP.29 GRVA 2020 Working Documents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ECE/TRANS/WP.29/GRVA/2020/2&lt;br&gt;
+Proposal for a new UN Regulation on uniform provisions concerning the approval of vehicles with regard to cyber security and of their cybersecurity management systems&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/ECE-TRANS-WP29-GRVA-2020-02e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ECE/TRANS/WP.29/GRVA/2020/3&lt;br&gt;
+Proposal for the 01 series of amendments to the new UN Regulation on uniform provisions concerning the approval of vehicles with regard to cyber security and of cybersecurity management systems&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/ECE-TRANS-WP29-GRVA-2020-03e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;standard-wip&#34;&gt;Standard (WIP)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/70918.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/SAE DIS 21434&lt;br&gt;
+Road vehicles — Cybersecurity engineering [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;standard&#34;&gt;Standard&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sae.org/standards/content/j3061_201601/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE J3061&lt;br&gt;
+Cybersecurity Guidebook for Cyber-Physical Vehicle Systems [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sae.org/standards/content/j3101_202002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE J3101&lt;br&gt;
+Hardware Protected Security for Ground Vehicles [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>自動車の安全</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/courses/vehicle/safety/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/courses/vehicle/safety/</guid>
+      <description>&lt;h2 id=&#34;機能安全&#34;&gt;機能安全&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ISO 26262:2018&lt;br&gt;
+Road vehicles — Functional safety
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68383.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 1: Vocabulary [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68384.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 2: Management of functional safety [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68385.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 3: Concept phase [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68386.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 4: Product development at the system level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68387.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 5: Product development at the hardware level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68388.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 6: Product development at the software level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68389.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 7: Production, operation, service and decommissioning [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68390.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 8: Supporting processes [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68391.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 9: Automotive safety integrity level (ASIL)-oriented and safety-oriented analyses [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68392.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 10: Guidelines on ISO 26262 [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/69604.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 11: Guidelines on application of ISO 26262 to semiconductors [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/69605.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 12: Adaptation of ISO 26262 for motorcycles [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sotif&#34;&gt;SOTIF&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/70939.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/PAS 21448:2019&lt;br&gt;
+Road vehicles — Safety of the intended functionality [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apollo Dreamview</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/apollo-dreamview/</link>
+      <pubDate>Wed, 13 May 2020 22:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/apollo-dreamview/</guid>
+      <description>&lt;p&gt;Dreamviewは、Baidu 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo (Open Software Platform)&lt;/a&gt;の可視化ツール。&lt;/p&gt;
+&lt;p&gt;Dreamviewは、次のようなWebアプリケーション。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;関連する自動運転モジュールの現在の出力を視覚化&lt;/li&gt;
+&lt;li&gt;ハードウェアのステータスの表示、モジュールのオン/オフの切り替え、自動運転車をスタートするためのヒューマンマシンインターフェイスを提供&lt;/li&gt;
+&lt;li&gt;モジュールの課題を効率的に追跡するためのPnC Monitorなどのデバッグツールを提供。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Dreamviewの使用法は、
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/specs/dreamview_usage_table.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dreamview Usage Table&lt;/a&gt;を参照。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/FAQs/Dreamview_FAQs.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DreamView FAQs&lt;/a&gt;に記載されているように、Planning動作の確認のために&amp;quot;Sim Control&amp;quot;を使用することができる。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Others&amp;quot;パネルの&amp;quot;PNC Monitor&amp;quot;をオンにすると、ヘッダー画像のようにPlanningのグラフを表示できる。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CARLA</title>
@@ -67,7 +235,7 @@
       <guid>https://hidetoshi-furukawa.github.io/ja/post/apollo/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://apollo.auto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo&lt;/a&gt;は、Baiduが開発している自動運転プラットフォーム。&lt;/p&gt;
-&lt;p&gt;自動運転ソフトウェアは、
+&lt;p&gt;Open Software Platformは、
 &lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;で公開されている。&lt;/p&gt;
 &lt;p&gt;2020年4月時点の最新リリースは、Apollo 5.5。&lt;/p&gt;
 &lt;p&gt;GitHubのリリースタグに、

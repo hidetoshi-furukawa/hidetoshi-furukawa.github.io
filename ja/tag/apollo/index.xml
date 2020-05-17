@@ -5,12 +5,33 @@
     <link>https://hidetoshi-furukawa.github.io/ja/tag/apollo/</link>
       <atom:link href="https://hidetoshi-furukawa.github.io/ja/tag/apollo/index.xml" rel="self" type="application/rss+xml" />
     <description>Apollo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Fri, 08 May 2020 23:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Wed, 13 May 2020 22:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
       <title>Apollo</title>
       <link>https://hidetoshi-furukawa.github.io/ja/tag/apollo/</link>
     </image>
+    
+    <item>
+      <title>Apollo Dreamview</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/post/apollo-dreamview/</link>
+      <pubDate>Wed, 13 May 2020 22:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/ja/post/apollo-dreamview/</guid>
+      <description>&lt;p&gt;Dreamviewは、Baidu 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo (Open Software Platform)&lt;/a&gt;の可視化ツール。&lt;/p&gt;
+&lt;p&gt;Dreamviewは、次のようなWebアプリケーション。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;関連する自動運転モジュールの現在の出力を視覚化&lt;/li&gt;
+&lt;li&gt;ハードウェアのステータスの表示、モジュールのオン/オフの切り替え、自動運転車をスタートするためのヒューマンマシンインターフェイスを提供&lt;/li&gt;
+&lt;li&gt;モジュールの課題を効率的に追跡するためのPnC Monitorなどのデバッグツールを提供。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Dreamviewの使用法は、
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/specs/dreamview_usage_table.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dreamview Usage Table&lt;/a&gt;を参照。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/FAQs/Dreamview_FAQs.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DreamView FAQs&lt;/a&gt;に記載されているように、Planning動作の確認のために&amp;quot;Sim Control&amp;quot;を使用することができる。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Others&amp;quot;パネルの&amp;quot;PNC Monitor&amp;quot;をオンにすると、ヘッダー画像のようにPlanningのグラフを表示できる。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LGSVL Simulator</title>
@@ -34,7 +55,7 @@
       <guid>https://hidetoshi-furukawa.github.io/ja/post/apollo/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://apollo.auto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo&lt;/a&gt;は、Baiduが開発している自動運転プラットフォーム。&lt;/p&gt;
-&lt;p&gt;自動運転ソフトウェアは、
+&lt;p&gt;Open Software Platformは、
 &lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;で公開されている。&lt;/p&gt;
 &lt;p&gt;2020年4月時点の最新リリースは、Apollo 5.5。&lt;/p&gt;
 &lt;p&gt;GitHubのリリースタグに、

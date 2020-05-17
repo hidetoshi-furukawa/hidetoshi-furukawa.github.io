@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Key Management Documents | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/courses/key-management/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/courses/key-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Key Management Documents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
+      <title>Key Management Documents</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/key-management/</link>
+    </image>
+    
+    <item>
+      <title>Key Management Glossary</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/key-management/glossary/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/courses/key-management/glossary/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Term&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Definition&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric-key algorithm&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic algorithm that uses the same secret key for an operation and its complement (e.g., encryption and decryption). Also called a secret-key algorithm.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A single cryptographic key that is used with a symmetric-key cryptographic algorithm, is uniquely associated with one or more entities, and is not made public (i.e., the key is kept secret). A symmetric key is often called a secret key. See &lt;em&gt;Secret key&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Secret key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A single cryptographic key that is used with a symmetric-key cryptographic algorithm, is uniquely associated with one or more entities and is not made public (i.e., the key is kept secret). A secret key is also called a &lt;em&gt;Symmetric key&lt;/em&gt;.&lt;br&gt;The use of the term “secret” in this context does not imply a classification level but rather implies the need to protect the key from disclosure.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public-key（asymmetric）cryptographic algorithm&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic algorithm that uses two related keys: a public key and a private key. The two keys have the property that determining the private key from the public key is computationally infeasible.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Asymmetric key algorithm&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;See &lt;em&gt;Public-key cryptographic algorithm&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Key pair&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A public key and its corresponding private key; a key pair is used with a public-key algorithm.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic key used with a public-key cryptographic algorithm that is uniquely associated with an entity and that may be made public. In an asymmetric-key (public-key) cryptosystem, the public key has a corresponding private key. The public key may be known by anyone and, depending on the algorithm, may be used, for example, to:&lt;br&gt;1. Verify a digital signature that was generated using the corresponding private key,&lt;br&gt;2. Encrypt keys that can be decrypted using the corresponding private key, or&lt;br&gt;3. Compute a shared secret during a key-agreement transaction.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Private key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic key used with a public-key cryptographic algorithm that is uniquely associated with an entity and is not made public. In an asymmetric-key (public-key) cryptosystem, the private key has a corresponding public key. Depending on the algorithm, the private key may be used, for example, to:&lt;br&gt;1. Compute the corresponding public key,&lt;br&gt;2. Compute a digital signature that may be verified by the corresponding public key,&lt;br&gt;3. Decrypt keys that were encrypted by the corresponding public key, or&lt;br&gt;4. Compute a shared secret during a key-agreement transaction.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Reference&lt;br&gt;
+NIST 
+&lt;a href=&#34;https://doi.org/10.6028/NIST.SP.800-57pt1r5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SP 800-57 Part 1 Rev.5 [PDF]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

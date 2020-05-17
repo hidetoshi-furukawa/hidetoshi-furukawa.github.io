@@ -3,8 +3,158 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hidetoshi-furukawa.github.io/courses/key-management/glossary/</loc>
+    <lastmod>2020-05-12T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/courses/key-management/glossary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/courses/key-management/glossary/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/courses/vehicle/</loc>
+    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/courses/vehicle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/courses/vehicle/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/courses/key-management/</loc>
+    <lastmod>2020-05-12T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/courses/key-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/courses/key-management/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/courses/</loc>
+    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/</loc>
+    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/courses/vehicle/cybersecurity/</loc>
+    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/courses/vehicle/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/courses/vehicle/cybersecurity/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/courses/vehicle/safety/</loc>
+    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/courses/vehicle/safety/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/courses/vehicle/safety/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/tag/apollo/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/tag/apollo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/tag/apollo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/tag/apollo-dreamview/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/tag/apollo-dreamview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/tag/apollo-dreamview/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/post/apollo-dreamview/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/post/apollo-dreamview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/post/apollo-dreamview/"
+                />
+  </url>
+  
+  <url>
     <loc>https://hidetoshi-furukawa.github.io/authors/</loc>
-    <lastmod>2020-05-10T12:00:00+09:00</lastmod>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -14,6 +164,81 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hidetoshi-furukawa.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/author/hidetoshi-furukawa/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/author/hidetoshi-furukawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/author/hidetoshi-furukawa/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/post/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/tag/self-driving-car/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/tag/self-driving-car/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/tag/self-driving-car/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/tag/simulation/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/tag/simulation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/tag/simulation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hidetoshi-furukawa.github.io/tags/</loc>
+    <lastmod>2020-05-13T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/tags/"
                 />
   </url>
   
@@ -48,51 +273,6 @@
   </url>
   
   <url>
-    <loc>https://hidetoshi-furukawa.github.io/</loc>
-    <lastmod>2020-05-10T12:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hidetoshi-furukawa.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidetoshi-furukawa.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hidetoshi-furukawa.github.io/author/hidetoshi-furukawa/</loc>
-    <lastmod>2020-05-10T12:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hidetoshi-furukawa.github.io/ja/author/hidetoshi-furukawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidetoshi-furukawa.github.io/author/hidetoshi-furukawa/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hidetoshi-furukawa.github.io/post/</loc>
-    <lastmod>2020-05-10T12:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hidetoshi-furukawa.github.io/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidetoshi-furukawa.github.io/post/"
-                />
-  </url>
-  
-  <url>
     <loc>https://hidetoshi-furukawa.github.io/tag/ros/</loc>
     <lastmod>2020-05-10T12:00:00+09:00</lastmod>
     <xhtml:link
@@ -104,46 +284,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hidetoshi-furukawa.github.io/tag/ros/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hidetoshi-furukawa.github.io/tag/self-driving-car/</loc>
-    <lastmod>2020-05-10T12:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hidetoshi-furukawa.github.io/tag/simulation/</loc>
-    <lastmod>2020-05-10T12:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hidetoshi-furukawa.github.io/tags/</loc>
-    <lastmod>2020-05-10T12:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hidetoshi-furukawa.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidetoshi-furukawa.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hidetoshi-furukawa.github.io/tag/apollo/</loc>
-    <lastmod>2020-05-10T11:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hidetoshi-furukawa.github.io/ja/tag/apollo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidetoshi-furukawa.github.io/tag/apollo/"
                 />
   </url>
   
@@ -210,6 +350,16 @@
   <url>
     <loc>https://hidetoshi-furukawa.github.io/tag/deep-learning/</loc>
     <lastmod>2020-05-08T21:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/tag/deep-learning/"
+                />
   </url>
   
   <url>
@@ -305,6 +455,16 @@
   <url>
     <loc>https://hidetoshi-furukawa.github.io/tag/radar/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/tag/radar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/tag/radar/"
+                />
   </url>
   
   <url>

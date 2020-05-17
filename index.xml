@@ -5,12 +5,182 @@
     <link>https://hidetoshi-furukawa.github.io/</link>
       <atom:link href="https://hidetoshi-furukawa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hidetoshi Furukawa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 10 May 2020 12:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 17 May 2020 00:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
       <title>Hidetoshi Furukawa</title>
       <link>https://hidetoshi-furukawa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Key Management Glossary</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/key-management/glossary/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/courses/key-management/glossary/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Term&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Definition&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric-key algorithm&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic algorithm that uses the same secret key for an operation and its complement (e.g., encryption and decryption). Also called a secret-key algorithm.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Symmetric key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A single cryptographic key that is used with a symmetric-key cryptographic algorithm, is uniquely associated with one or more entities, and is not made public (i.e., the key is kept secret). A symmetric key is often called a secret key. See &lt;em&gt;Secret key&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Secret key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A single cryptographic key that is used with a symmetric-key cryptographic algorithm, is uniquely associated with one or more entities and is not made public (i.e., the key is kept secret). A secret key is also called a &lt;em&gt;Symmetric key&lt;/em&gt;.&lt;br&gt;The use of the term “secret” in this context does not imply a classification level but rather implies the need to protect the key from disclosure.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public-key（asymmetric）cryptographic algorithm&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic algorithm that uses two related keys: a public key and a private key. The two keys have the property that determining the private key from the public key is computationally infeasible.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Asymmetric key algorithm&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;See &lt;em&gt;Public-key cryptographic algorithm&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Key pair&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A public key and its corresponding private key; a key pair is used with a public-key algorithm.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Public key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic key used with a public-key cryptographic algorithm that is uniquely associated with an entity and that may be made public. In an asymmetric-key (public-key) cryptosystem, the public key has a corresponding private key. The public key may be known by anyone and, depending on the algorithm, may be used, for example, to:&lt;br&gt;1. Verify a digital signature that was generated using the corresponding private key,&lt;br&gt;2. Encrypt keys that can be decrypted using the corresponding private key, or&lt;br&gt;3. Compute a shared secret during a key-agreement transaction.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Private key&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cryptographic key used with a public-key cryptographic algorithm that is uniquely associated with an entity and is not made public. In an asymmetric-key (public-key) cryptosystem, the private key has a corresponding public key. Depending on the algorithm, the private key may be used, for example, to:&lt;br&gt;1. Compute the corresponding public key,&lt;br&gt;2. Compute a digital signature that may be verified by the corresponding public key,&lt;br&gt;3. Decrypt keys that were encrypted by the corresponding public key, or&lt;br&gt;4. Compute a shared secret during a key-agreement transaction.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Reference&lt;br&gt;
+NIST 
+&lt;a href=&#34;https://doi.org/10.6028/NIST.SP.800-57pt1r5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SP 800-57 Part 1 Rev.5 [PDF]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vehicle Cyber Security</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/vehicle/cybersecurity/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/courses/vehicle/cybersecurity/</guid>
+      <description>&lt;h2 id=&#34;un-regulation-wip&#34;&gt;UN Regulation (WIP)&lt;/h2&gt;
+&lt;h3 id=&#34;unece-wp29-grva-6th-session-informal-documentshttpswwwuneceorgtransmainwp29wp29wgswp29grvagrvainf2020-2html&#34;&gt;
+&lt;a href=&#34;https://www.unece.org/trans/main/wp29/wp29wgs/wp29grva/grvainf2020-2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNECE WP.29 GRVA 6th session Informal documents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GRVA-06-19-Rev.1&lt;br&gt;
+Proposal for a new UN Regulation on Cyber security&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/GRVA-06-19r1e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;unece-wp29-grva-2020-working-documentshttpswwwuneceorgtransmainwp29wp29wgswp29grvagrva2020html&#34;&gt;
+&lt;a href=&#34;https://www.unece.org/trans/main/wp29/wp29wgs/wp29grva/grva2020.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNECE WP.29 GRVA 2020 Working Documents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ECE/TRANS/WP.29/GRVA/2020/2&lt;br&gt;
+Proposal for a new UN Regulation on uniform provisions concerning the approval of vehicles with regard to cyber security and of their cybersecurity management systems&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/ECE-TRANS-WP29-GRVA-2020-02e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ECE/TRANS/WP.29/GRVA/2020/3&lt;br&gt;
+Proposal for the 01 series of amendments to the new UN Regulation on uniform provisions concerning the approval of vehicles with regard to cyber security and of cybersecurity management systems&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/ECE-TRANS-WP29-GRVA-2020-03e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;standard-wip&#34;&gt;Standard (WIP)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/70918.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/SAE DIS 21434&lt;br&gt;
+Road vehicles — Cybersecurity engineering [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;standard&#34;&gt;Standard&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sae.org/standards/content/j3061_201601/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE J3061&lt;br&gt;
+Cybersecurity Guidebook for Cyber-Physical Vehicle Systems [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sae.org/standards/content/j3101_202002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE J3101&lt;br&gt;
+Hardware Protected Security for Ground Vehicles [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vehicle Safety</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/vehicle/safety/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/courses/vehicle/safety/</guid>
+      <description>&lt;h2 id=&#34;functional-safety&#34;&gt;Functional Safety&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ISO 26262:2018&lt;br&gt;
+Road vehicles — Functional safety
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68383.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 1: Vocabulary [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68384.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 2: Management of functional safety [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68385.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 3: Concept phase [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68386.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 4: Product development at the system level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68387.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 5: Product development at the hardware level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68388.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 6: Product development at the software level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68389.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 7: Production, operation, service and decommissioning [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68390.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 8: Supporting processes [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68391.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 9: Automotive safety integrity level (ASIL)-oriented and safety-oriented analyses [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68392.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 10: Guidelines on ISO 26262 [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/69604.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 11: Guidelines on application of ISO 26262 to semiconductors [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/69605.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 12: Adaptation of ISO 26262 for motorcycles [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sotif&#34;&gt;SOTIF&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/70939.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/PAS 21448:2019&lt;br&gt;
+Road vehicles — Safety of the intended functionality [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apollo Dreamview</title>
+      <link>https://hidetoshi-furukawa.github.io/post/apollo-dreamview/</link>
+      <pubDate>Wed, 13 May 2020 22:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/apollo-dreamview/</guid>
+      <description>&lt;p&gt;Dreamview is a visualization tool for Baidu 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo (Open Software Platform)&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dreamview is a web application that,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;visualizes the current output of relevant autonomous driving modules, e.g. planning trajectory, car localization, chassis status, etc.&lt;/li&gt;
+&lt;li&gt;provides human-machine interface for users to view hardware status, turn on/off of modules, and start the autonomous driving car.&lt;/li&gt;
+&lt;li&gt;provides debugging tools, such as PnC Monitor to efficiently track module issues.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Usage of Dreamview, see 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/specs/dreamview_usage_table.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dreamview Usage Table&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As described in 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/FAQs/Dreamview_FAQs.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DreamView FAQs&lt;/a&gt;, it can be used &amp;ldquo;Sim Control&amp;rdquo; to confirm the planning trajectory.&lt;/p&gt;
+&lt;p&gt;Turn on the &amp;ldquo;PNC Monitor&amp;rdquo; from the &amp;ldquo;Others&amp;rdquo; panel, you should be able to view the Planning, Control, Latency graphs as the header image.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CARLA</title>

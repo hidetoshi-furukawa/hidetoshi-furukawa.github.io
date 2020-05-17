@@ -5,12 +5,35 @@
     <link>https://hidetoshi-furukawa.github.io/tag/apollo/</link>
       <atom:link href="https://hidetoshi-furukawa.github.io/tag/apollo/index.xml" rel="self" type="application/rss+xml" />
     <description>Apollo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 10 May 2020 11:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Wed, 13 May 2020 22:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
       <title>Apollo</title>
       <link>https://hidetoshi-furukawa.github.io/tag/apollo/</link>
     </image>
+    
+    <item>
+      <title>Apollo Dreamview</title>
+      <link>https://hidetoshi-furukawa.github.io/post/apollo-dreamview/</link>
+      <pubDate>Wed, 13 May 2020 22:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/post/apollo-dreamview/</guid>
+      <description>&lt;p&gt;Dreamview is a visualization tool for Baidu 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apollo (Open Software Platform)&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dreamview is a web application that,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;visualizes the current output of relevant autonomous driving modules, e.g. planning trajectory, car localization, chassis status, etc.&lt;/li&gt;
+&lt;li&gt;provides human-machine interface for users to view hardware status, turn on/off of modules, and start the autonomous driving car.&lt;/li&gt;
+&lt;li&gt;provides debugging tools, such as PnC Monitor to efficiently track module issues.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Usage of Dreamview, see 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/specs/dreamview_usage_table.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dreamview Usage Table&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As described in 
+&lt;a href=&#34;https://github.com/ApolloAuto/apollo/blob/master/docs/FAQs/Dreamview_FAQs.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DreamView FAQs&lt;/a&gt;, it can be used &amp;ldquo;Sim Control&amp;rdquo; to confirm the planning trajectory.&lt;/p&gt;
+&lt;p&gt;Turn on the &amp;ldquo;PNC Monitor&amp;rdquo; from the &amp;ldquo;Others&amp;rdquo; panel, you should be able to view the Planning, Control, Latency graphs as the header image.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LGSVL Simulator</title>

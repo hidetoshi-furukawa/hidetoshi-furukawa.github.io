@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vehicle Safety &amp; Cybersecurity | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/courses/vehicle/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/courses/vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vehicle Safety &amp; Cybersecurity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 17 May 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
+      <title>Vehicle Safety &amp; Cybersecurity</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/vehicle/</link>
+    </image>
+    
+    <item>
+      <title>Vehicle Cyber Security</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/vehicle/cybersecurity/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/courses/vehicle/cybersecurity/</guid>
+      <description>&lt;h2 id=&#34;un-regulation-wip&#34;&gt;UN Regulation (WIP)&lt;/h2&gt;
+&lt;h3 id=&#34;unece-wp29-grva-6th-session-informal-documentshttpswwwuneceorgtransmainwp29wp29wgswp29grvagrvainf2020-2html&#34;&gt;
+&lt;a href=&#34;https://www.unece.org/trans/main/wp29/wp29wgs/wp29grva/grvainf2020-2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNECE WP.29 GRVA 6th session Informal documents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GRVA-06-19-Rev.1&lt;br&gt;
+Proposal for a new UN Regulation on Cyber security&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/GRVA-06-19r1e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;unece-wp29-grva-2020-working-documentshttpswwwuneceorgtransmainwp29wp29wgswp29grvagrva2020html&#34;&gt;
+&lt;a href=&#34;https://www.unece.org/trans/main/wp29/wp29wgs/wp29grva/grva2020.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNECE WP.29 GRVA 2020 Working Documents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ECE/TRANS/WP.29/GRVA/2020/2&lt;br&gt;
+Proposal for a new UN Regulation on uniform provisions concerning the approval of vehicles with regard to cyber security and of their cybersecurity management systems&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/ECE-TRANS-WP29-GRVA-2020-02e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ECE/TRANS/WP.29/GRVA/2020/3&lt;br&gt;
+Proposal for the 01 series of amendments to the new UN Regulation on uniform provisions concerning the approval of vehicles with regard to cyber security and of cybersecurity management systems&lt;br&gt;
+
+&lt;a href=&#34;https://www.unece.org/fileadmin/DAM/trans/doc/2020/wp29grva/ECE-TRANS-WP29-GRVA-2020-03e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;standard-wip&#34;&gt;Standard (WIP)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/70918.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/SAE DIS 21434&lt;br&gt;
+Road vehicles — Cybersecurity engineering [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;standard&#34;&gt;Standard&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sae.org/standards/content/j3061_201601/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE J3061&lt;br&gt;
+Cybersecurity Guidebook for Cyber-Physical Vehicle Systems [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sae.org/standards/content/j3101_202002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE J3101&lt;br&gt;
+Hardware Protected Security for Ground Vehicles [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vehicle Safety</title>
+      <link>https://hidetoshi-furukawa.github.io/courses/vehicle/safety/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://hidetoshi-furukawa.github.io/courses/vehicle/safety/</guid>
+      <description>&lt;h2 id=&#34;functional-safety&#34;&gt;Functional Safety&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ISO 26262:2018&lt;br&gt;
+Road vehicles — Functional safety
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68383.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 1: Vocabulary [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68384.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 2: Management of functional safety [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68385.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 3: Concept phase [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68386.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 4: Product development at the system level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68387.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 5: Product development at the hardware level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68388.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 6: Product development at the software level [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68389.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 7: Production, operation, service and decommissioning [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68390.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 8: Supporting processes [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68391.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 9: Automotive safety integrity level (ASIL)-oriented and safety-oriented analyses [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/68392.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 10: Guidelines on ISO 26262 [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/69604.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 11: Guidelines on application of ISO 26262 to semiconductors [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/69605.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Part 12: Adaptation of ISO 26262 for motorcycles [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sotif&#34;&gt;SOTIF&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.iso.org/standard/70939.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/PAS 21448:2019&lt;br&gt;
+Road vehicles — Safety of the intended functionality [Web]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
