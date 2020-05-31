@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>https://hidetoshi-furukawa.github.io/ja/courses/machine-learning/</loc>
+    <lastmod>2020-05-24T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidetoshi-furukawa.github.io/courses/machine-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hidetoshi-furukawa.github.io/ja/courses/machine-learning/"
+                />
+  </url>
+  
+  <url>
     <loc>https://hidetoshi-furukawa.github.io/ja/courses/key-management/</loc>
     <lastmod>2020-05-12T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -49,7 +64,7 @@
   
   <url>
     <loc>https://hidetoshi-furukawa.github.io/ja/courses/</loc>
-    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+    <lastmod>2020-05-24T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +79,7 @@
   
   <url>
     <loc>https://hidetoshi-furukawa.github.io/ja/</loc>
-    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+    <lastmod>2020-05-24T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

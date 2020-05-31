@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses | Hidetoshi Furukawa</title>
-    <link>https://hidetoshi-furukawa.github.io/ja/courses/</link>
-      <atom:link href="https://hidetoshi-furukawa.github.io/ja/courses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Courses</description>
+    <title>機械学習モデルの脆弱性と対応策 | Hidetoshi Furukawa</title>
+    <link>https://hidetoshi-furukawa.github.io/ja/courses/machine-learning/</link>
+      <atom:link href="https://hidetoshi-furukawa.github.io/ja/courses/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>機械学習モデルの脆弱性と対応策</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Hidetoshi Furukawa</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0900</lastBuildDate>
     <image>
       <url>https://hidetoshi-furukawa.github.io/images/icon_hubd3b324748adb3c1b77329265f3f838a_20274_512x512_fill_lanczos_center_2.png</url>
-      <title>Courses</title>
-      <link>https://hidetoshi-furukawa.github.io/ja/courses/</link>
+      <title>機械学習モデルの脆弱性と対応策</title>
+      <link>https://hidetoshi-furukawa.github.io/ja/courses/machine-learning/</link>
     </image>
     
   </channel>
